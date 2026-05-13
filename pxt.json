@@ -2,7 +2,8 @@
     "name": "err",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "gittest": "github:0sh1ma/gittestoshima#14255864d5a5dbeea9376c226e4d4ca2478771bf"
     },
     "files": [
         "main.blocks",
